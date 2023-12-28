@@ -5,6 +5,7 @@ body {
     box-sizing: border-box;
 }
 
+
 .container {
     width: 100%;
     height: 100vh;
@@ -12,6 +13,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+  
 }
 
 .Calculator {
@@ -45,6 +47,7 @@ form .display input {
     flex: 1;
     font-size: 45px;
     box-shadow: none;
+  
 }
 
 form input.equal {
